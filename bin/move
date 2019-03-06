@@ -8,6 +8,6 @@ puts "Where would you like to go?"
 input = gets.strip
 index = input_to_index(input)
 # Code your CLI Here
-move(board, index, input_value)
+move(board, index, "X")
 
 display_board(board)
