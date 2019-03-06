@@ -16,7 +16,5 @@ def move(board, index, value = "X")
   return board
 end
 
-
-
-
 # code your input_to_index and move method here!
+
